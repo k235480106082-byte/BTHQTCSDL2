@@ -25,7 +25,7 @@ GO
 Tạo một database riêng để chứa toàn bộ dữ liệu quản lý kho điện thoại
 Chuyển context sang database đó để làm việc
 - Kết quả:
-Xuất hiện database QL_KhoDienThoai trong SQL Server
+Xuất hiện database QLKhoDienThoai_K235480106082 trong SQL Server
 Các lệnh tiếp theo sẽ được thực thi trong database này
 
 <img src="picture 2/p1.png" width="100%">
