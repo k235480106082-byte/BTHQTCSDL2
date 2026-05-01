@@ -15,9 +15,9 @@
 - Lệnh SQL: 
 
 ```sql
-CREATE DATABASE QL_KhoDienThoai;
+CREATE DATABASE [QLKhoDienThoai_K235480106082];
 GO
-USE QL_KhoDienThoai;
+USE [QLKhoDienThoai_K235480106082];
 GO
 ```
 
