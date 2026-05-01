@@ -17,6 +17,7 @@
 ```sql
 CREATE DATABASE [QLKhoDienThoai_K235480106082];
 GO
+
 USE [QLKhoDienThoai_K235480106082];
 GO
 ```
