@@ -3,7 +3,7 @@
 ## Thông tin sinh viên
 
 - Họ và tên: Nguyễn Văn Mạnh
-- Mã só sinh viên: K235480106082
+- Mã số sinh viên: K235480106082
 - Đề tài: Quản lý kho bán điện thoại
 
 ---
